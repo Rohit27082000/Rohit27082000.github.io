@@ -38,5 +38,5 @@ headerLogoConatiner.addEventListener('click', () => {
 
 
 ////////// Github calender responsiveness/////////////
-GitHubCalendar(".calendar", "Jignesh6775");
-GitHubCalendar(".calendar", "Jignesh6775", { responsive: true });
+GitHubCalendar(".calendar", "Rohit27082000");
+GitHubCalendar(".calendar", "Rohit27082000", { responsive: true });
